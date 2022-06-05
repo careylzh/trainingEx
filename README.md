@@ -23,5 +23,16 @@ each student is "quite different", maybe more shallow understanding?
 Really depends, I find it difficult to characterise the difference of 
 class execution in classes of various sizes. Will revisit in time. 
 
-
+## Raspberry Pi 
+Oh RPi is alot more different - less "depth in concepts" and alot more in 
+terms of unpacking physical structure - eg. reading the breadboard 
+structure and seeing which parts of the metal are linked, which are not. 
+Instructor exercises alot more "spirit" and waypointing to help the 
+students see for themselves how to use the new component. In terms of 
+embedded programming on the RPi, instructors may need to quickly unpack 
+programming concepts without going in depth eg. `while True:` tells the 
+system we want this python program to execute forever unless stopped by 
+user manually. This is just one of dozens of intuitions need to conduct an 
+RPi class of various sizes. Many parameters involved. Will revisit in 
+time. 
 
